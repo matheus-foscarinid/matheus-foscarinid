@@ -1,11 +1,13 @@
 # 🤙 Hi! I'm Matheus Dias
 
+
 ## 💻 Fullstack developer, currently working with Vue, Node & PHP!
 
 🏴 Currently working at [Minha Visita](https://minhavisita.app/index.php)
 🏛️ Reading about Software Design & Architecture
 👨‍🏫 I talk and teach about starting on the *technology market*
 💘 Currently in love with Node and Docker
+
 
 ### 🔧 Languages and Tools:
 
@@ -30,6 +32,7 @@
 <img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
+</br >
 </br >
 </br >
 
