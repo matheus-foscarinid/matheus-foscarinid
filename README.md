@@ -2,13 +2,13 @@
   
   
 ## 💻 Fullstack developer, currently working with Vue, Node & PHP!  
-
+  
 🏴 Currently working at [Minha Visita](https://minhavisita.app/index.php)  
 🏛️ Reading about Software Design & Architecture  
 👨‍🏫 I talk and teach about starting on the *technology market*  
 💘 Currently in love with Node and Docker  
   
-### 🔧 Languages and Tools:
+### 🔧 Languages and Tools:  
   
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -30,9 +30,8 @@
 <img align="left" alt="MacOS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-
-</br >
-</br >
+  
+  
   
   
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-foscarinid/)
