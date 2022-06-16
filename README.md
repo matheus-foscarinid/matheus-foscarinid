@@ -1,5 +1,4 @@
 # 🤙 Hi! I'm Matheus Dias  
-<br/>
 
 ### 💻 Fullstack developer, currently working with Vue, Node & PHP!  
   
