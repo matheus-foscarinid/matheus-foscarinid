@@ -3,10 +3,10 @@
   
 ## 💻 Fullstack developer, currently working with Vue, Node & PHP!  
 
-🏴 Currently working at [Minha Visita](https://minhavisita.app/index.php)
-🏛️ Reading about Software Design & Architecture
-👨‍🏫 I talk and teach about starting on the *technology market*
-💘 Currently in love with Node and Docker
+🏴 Currently working at [Minha Visita](https://minhavisita.app/index.php)  
+🏛️ Reading about Software Design & Architecture  
+👨‍🏫 I talk and teach about starting on the *technology market*  
+💘 Currently in love with Node and Docker  
   
 ### 🔧 Languages and Tools:
   
