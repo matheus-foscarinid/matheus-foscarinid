@@ -4,8 +4,8 @@
   
 🏴 Currently working at [Minha Visita](https://minhavisita.app/index.php)  
 🏛️ Reading about Software Design & Architecture  
-👨‍🏫 I talk and teach about starting on the *technology market*  
-💘 Currently studying NestJS and Docker  
+👨‍🏫 I talk about starting on the *technology market*  
+📚 Currently studying NestJS and Vue 3!  
 <br/>  
   
 ### 🔧 Languages and Tools:  
