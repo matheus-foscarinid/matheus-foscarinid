@@ -1,11 +1,13 @@
-# 🤙 Hi! I'm Matheus Dias  
+# Hi 👋 My name is Matheus Dias!
 
-### 💻 Fullstack developer, currently working with Vue, Node & PHP!  
-  
-🏴 Currently working at [Minha Visita](https://minhavisita.app/index.php)  
-🏛️ Reading about Software Design & Architecture  
-👨‍🏫 I talk about starting on the *technology market*  
-📚 Currently studying NestJS and Vue 3!  
+### Fullstack developer, currently working with Vue, Node & PHP!  
+
+* 🌍  I'm based in Brazil, Rio Grande do Sul
+* 💻  See my portfolio at [matheusdias.vercel.app](http://matheusdias.vercel.app/)
+* ✉️  You can contact me at [matheus.foscarinid@gmail.com](mailto:matheus.foscarinid@gmail.com)
+* 🚀  I'm currently working on [Minha Visita](http://minhavisita.app)
+* 🧠  I'm learning NestJS and Vue 3!
+* 👨‍🏫  I like to talk about starting on the technology market
 <br/>  
   
 ### 🧠 Languages and Frameworks:  
@@ -37,7 +39,6 @@
 <br/>
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-foscarinid/)
-[![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://matheusdias.vercel.app/) 
 
 
 
