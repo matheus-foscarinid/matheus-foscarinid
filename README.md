@@ -38,8 +38,15 @@
 <br/>  
 <br/>
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-foscarinid/)
-
+<a target="_blank" href="https://www.linkedin.com/in/matheus-foscarinid/">
+  <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
+</a>
+<a target="_blank" href="https://matheusdias.dev">
+  <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white&color=B700FF"/>
+</a>
+  <a target="_blank" href="https://www.matheusdias.dev/dias-matheus-cv-en.pdf">
+  <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"/>
+</a>
 
 
 
