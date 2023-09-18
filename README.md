@@ -6,7 +6,7 @@
 * 💻  See my portfolio at [matheusdias.dev](http://matheusdias.dev)
 * ✉️  You can contact me at [matheus.foscarinid@gmail.com](mailto:matheus.foscarinid@gmail.com)
 * 🚀  I'm currently working at [Minha Visita](http://minhavisita.app)
-* 🧠  I'm learning NestJS and Vue 3!
+* 🧠  I'm learning NestJS and NextJS!
 * 👨‍🏫  I like to talk about starting on the technology market
 <br/>  
   
