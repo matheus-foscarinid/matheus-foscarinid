@@ -6,7 +6,7 @@
 * 💻  See my portfolio at [matheusdias.dev](http://matheusdias.dev)
 * ✉️  You can contact me at [matheus.foscarinid@gmail.com](mailto:matheus.foscarinid@gmail.com)
 * 🚀  I'm currently working at [Minha Visita](http://minhavisita.app)
-* 🧠  I'm learning more about React and NextJS!
+* 🧠  I'm learning more about System Design and Algorithms!
 * 👨‍🏫  I like to talk about starting on the technology market
 <br/>  
   
@@ -39,13 +39,16 @@
 <br/>
 
 <a target="_blank" href="https://www.linkedin.com/in/matheus-foscarinid/">
-  <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
+  <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=212831"/>
 </a>
 <a target="_blank" href="https://matheusdias.dev">
-  <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white&color=B700FF"/>
+  <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white&color=212831"/>
 </a>
-  <a target="_blank" href="https://www.matheusdias.dev/dias-matheus-cv-en.pdf">
-  <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"/>
+<a target="_blank" href="https://www.matheusdias.dev/dias-matheus-cv-en.pdf">
+  <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=212831"/>
+</a>
+<a target="_blank" href="https://leetcode.com/matheus-foscarinid/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white&color=212831"/>
 </a>
 
 
