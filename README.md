@@ -7,7 +7,6 @@
 * ✉️  You can contact me at [matheus.foscarinid@gmail.com](mailto:matheus.foscarinid@gmail.com)
 * 🧠  I’m currently reading books about Software Architecture and System design.
 * 👨‍🏫  I like to talk about starting on the technology market
-* 👯 I’m looking to collaborate on Open Source projects!
 * 💬 Ask me anything! I'll love to help you!
 
 <br/>  
