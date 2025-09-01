@@ -1,6 +1,6 @@
 # Hi 👋 My name is Matheus Dias!
 
-### I'm a Fullstack developer, currently working with Vue, Node & Ruby!  
+### I'm a Fullstack developer, currently working with React & GO!  
 
 * 🌍  I'm based in Brazil, Rio Grande do Sul
 * 💻  See my portfolio at [matheusdias.dev](http://matheusdias.dev)
