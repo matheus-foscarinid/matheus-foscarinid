@@ -11,18 +11,19 @@
 
 <br/>  
 <br/>  
-<br/>  
 
-<a target="_blank" href="https://www.linkedin.com/in/matheus-foscarinid/">
+![My GitHub Game](shooter.gif)
+
+<a target="_blank" href="https://www.linkedin.com/in/matheus-foscarinid/" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=212831"/>
 </a>
-<a target="_blank" href="https://matheusdias.dev">
+<a target="_blank" href="https://matheusdias.dev" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white&color=212831"/>
 </a>
-<a target="_blank" href="https://www.matheusdias.dev/dias-matheus-cv-en.pdf">
+<a target="_blank" href="https://www.matheusdias.dev/dias-matheus-cv-en.pdf" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=212831"/>
 </a>
-<a target="_blank" href="https://leetcode.com/matheus-foscarinid/">
+<a target="_blank" href="https://leetcode.com/matheus-foscarinid/" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white&color=212831"/>
 </a>
 
