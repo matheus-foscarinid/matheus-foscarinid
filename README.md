@@ -3,7 +3,7 @@
 ### I'm a Fullstack developer, currently working with React & GO!  
 
 * 🌍  I'm based in Brazil, Rio Grande do Sul
-* 💻  See my portfolio at [matheusdias.dev]([http://matheusdias.dev](https://matheusdias.dev/?utm_source=github)
+* 💻  See my portfolio at [matheusdias.dev](https://matheusdias.dev?utm_source=github)
 * ✉️  You can contact me at [matheus.foscarinid@gmail.com](mailto:matheus.foscarinid@gmail.com)
 * 🧠  I’m currently reading books about Software Architecture and System design.
 * 👨‍🏫  I like to talk about starting on the technology market
