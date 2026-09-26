@@ -11,14 +11,9 @@
 👨‍🏫 &nbsp;I like to talk about starting on the technology market<br>
 💬 &nbsp;Ask me anything! I'll love to help you!
 
+**[LinkedIn](https://www.linkedin.com/in/matheus-foscarinid/) &nbsp;·&nbsp; [Website](https://matheusdias.dev?utm_source=github) &nbsp;·&nbsp; [CV](https://www.matheusdias.dev/dias-matheus-cv-en.pdf) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/matheus-foscarinid/)**
+
 <br clear="left"/>
-<br/>
-
-<a target="_blank" href="https://www.linkedin.com/in/matheus-foscarinid/"><img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=212831"/></a>
-<a target="_blank" href="https://matheusdias.dev"><img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white&color=212831"/></a>
-<a target="_blank" href="https://www.matheusdias.dev/dias-matheus-cv-en.pdf"><img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=212831"/></a>
-<a target="_blank" href="https://leetcode.com/matheus-foscarinid/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white&color=212831"/></a>
-
 <br/>
 
 ![My GitHub Game](shooter.gif)
