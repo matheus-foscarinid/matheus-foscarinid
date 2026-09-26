@@ -1,3 +1,5 @@
+<img align="left" src="avatar.webp" width="180" alt="My 3D avatar turning around">
+
 # Hi 👋 My name is Matheus Dias!
 
 ### I'm a Fullstack developer, currently working with React & GO!  
@@ -8,6 +10,8 @@
 * 🧠  I’m currently reading books about Software Architecture and System design.
 * 👨‍🏫  I like to talk about starting on the technology market
 * 💬 Ask me anything! I'll love to help you!
+
+<br clear="left"/>
 
 <br/>  
 <br/>  
